@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [v3.0.0-alpha.0.5] - 2021-01-04
 ### Fixed
 
 - Fix moving items around in the item PC.
@@ -16,6 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Violet City trader no longer moves after trade completes.
 - Sanitized department store tileset for incorrect metatile behaviors.
 - Mom no longer calls every time you talk to the Day-Care Man outdoors.
+- Fix a crash when Mimic is used.
+- Fix collisions with trees on 3F and 4F of Goldenrod Dept. Store.
 
 ### Changed
 
@@ -62,6 +66,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Initial release, up through Sudowoodo event on Route 36
 
-[unreleased]: https://github.com/Sierraffinity/CrystalDust/compare/v3.0.0-alpha.0.2...HEAD
+[unreleased]: https://github.com/Sierraffinity/CrystalDust/compare/v3.0.0-alpha.0.5...HEAD
+[v3.0.0-alpha.0.5]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.5
+[v3.0.0-alpha.0.4]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.4
+[v3.0.0-alpha.0.3]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.3
 [v3.0.0-alpha.0.2]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.2
 [v3.0.0-alpha.0.1]: https://github.com/Sierraffinity/CrystalDust/releases/tag/v3.0.0-alpha.0.1
